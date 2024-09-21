@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "794281119834",
+    "firebase_url": "https://ticket-avion-a2a70-default-rtdb.firebaseio.com",
+    "project_id": "ticket-avion-a2a70",
+    "storage_bucket": "ticket-avion-a2a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794281119834:android:54b0e2bb112c1893efc863",
+        "android_client_info": {
+          "package_name": "com.example.ticket_avion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0r99cVaV5iLspdoRhmLIe8_tTgXSmkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
